@@ -95,7 +95,7 @@ function lesson() {
 }
 
 function wait() {
-	if (questionCounter <  4) {
+	if (questionCounter < 2) {
 	questionCounter++;
 	generateHTML();
 	counter = 30;
